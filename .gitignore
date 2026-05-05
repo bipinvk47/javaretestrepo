@@ -25,5 +25,7 @@ target/
 hs_err_pid*
 replay_pid*
 
-# Maven Wrapper bootstrap JAR is intentionally tracked
-!.mvn/wrapper/maven-wrapper.jar
+# Sample app build output
+sample-rest-app/target/
+sample-rest-app/build/
+sample-rest-app/.gradle/

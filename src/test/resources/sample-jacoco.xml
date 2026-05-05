@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<report name="demo">
-    <package name="com/demo">
-        <counter type="INSTRUCTION" missed="10" covered="90"/>
-        <counter type="BRANCH" missed="5" covered="15"/>
-        <counter type="LINE" missed="2" covered="18"/>
-    </package>
-</report>
