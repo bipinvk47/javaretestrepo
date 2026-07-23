@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Emit platform testing JSON for the Maven/Spring Boot fixture (bundle, deps, imports, cycles, build time)."""
+"""Emit platform testing JSON for the Maven/Spring Boot fixtures for the changes in the right manner for the fix (bundle, deps, imports, cycles, build time)."""
 
 from __future__ import annotations
 
